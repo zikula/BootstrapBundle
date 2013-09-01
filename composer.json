@@ -2,7 +2,7 @@
     "name": "zikula/bootstrap-bundle",
     "type": "symfony-bundle",
     "description": "Zikula Bootstrap bundle",
-    "keywords": ["bootstrap", "zikula", "bundle"],
+    "keywords": ["bootstrap", "zikula", "bundle", "css"],
     "homepage": "http://zikula.org",
     "license": "MIT",
     "authors": [
